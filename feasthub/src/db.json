@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fName": "Aryan",
+      "lName": "Kumar",
+      "bussiness": "shop",
+      "gst": "1524558862555",
+      "address": "bhopal",
+      "email": "aryan11@gmail.com"
+    }
+  ]
+}
